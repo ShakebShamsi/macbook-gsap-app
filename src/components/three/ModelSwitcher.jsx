@@ -9,7 +9,7 @@ import { Color } from 'three'
 import { color } from "three/tsl";
 
 const ANIMATION_DURATION = 1.5;
-const OFFSET_DISTANCE = 6.5;
+const OFFSET_DISTANCE = 8;
 
 const fadeMeshes = (group, opacity) => {
    if (!group) return;
